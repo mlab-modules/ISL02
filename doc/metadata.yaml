@@ -1,4 +1,4 @@
-description: null
+description: Light sensor with I2C interface and UV index measuring capability.
 github_branch: ISL02A
 github_repo: ISL02
 github_url: https://github.com/mlab-modules/ISL02
